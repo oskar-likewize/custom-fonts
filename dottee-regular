@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('https://oskar-likewize.github.io/custom-fonts/Dottee-Regular.woff2') format('woff2'),
+         url('https://oskar-likewize.github.io/custom-fonts/Dottee-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
