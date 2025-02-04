@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Dottee';
+    src: url('Dottee-Regular.woff2') format('woff2'),
+         url('Dottee-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dottee';
+    src: url('Dottee-Bold.woff2') format('woff2'),
+         url('Dottee-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
