@@ -1,5 +1,71 @@
+/* Font Face definitions for all fonts */
+
 @font-face {
-    font-family: 'Dottee';
+    font-family: 'Dottee-Bold';
+    src: url('Dottee-Bold.woff2') format('woff2'),
+         url('Dottee-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dottee-CondensedBold';
+    src: url('Dottee-CondensedBold.woff2') format('woff2'),
+         url('Dottee-CondensedBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dottee-CondensedLight';
+    src: url('Dottee-CondensedLight.woff2') format('woff2'),
+         url('Dottee-CondensedLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dottee-CondensedRegular';
+    src: url('Dottee-CondensedRegular.woff2') format('woff2'),
+         url('Dottee-CondensedRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dottee-ExtendedBold';
+    src: url('Dottee-ExtendedBold.woff2') format('woff2'),
+         url('Dottee-ExtendedBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dottee-ExtendedLight';
+    src: url('Dottee-ExtendedLight.woff2') format('woff2'),
+         url('Dottee-ExtendedLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dottee-ExtendedRegular';
+    src: url('Dottee-ExtendedRegular.woff2') format('woff2'),
+         url('Dottee-ExtendedRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dottee-Light';
+    src: url('Dottee-Light.woff2') format('woff2'),
+         url('Dottee-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dottee-Regular';
     src: url('Dottee-Regular.woff2') format('woff2'),
          url('Dottee-Regular.woff') format('woff');
     font-weight: normal;
@@ -7,9 +73,49 @@
 }
 
 @font-face {
-    font-family: 'Dottee';
-    src: url('Dottee-Bold.woff2') format('woff2'),
-         url('Dottee-Bold.woff') format('woff');
+    font-family: 'Non-Dottee-Bold';
+    src: url('Non-Dottee-Bold.woff2') format('woff2'),
+         url('Non-Dottee-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
+}
+
+@font-face {
+    font-family: 'Non-Dottee-BoldItalic';
+    src: url('Non-Dottee-BoldItalic.woff2') format('woff2'),
+         url('Non-Dottee-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Non-Dottee-Light';
+    src: url('Non-Dottee-Light.woff2') format('woff2'),
+         url('Non-Dottee-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Non-Dottee-LightItalic';
+    src: url('Non-Dottee-LightItalic.woff2') format('woff2'),
+         url('Non-Dottee-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Non-Dottee-Regular';
+    src: url('Non-Dottee-Regular.woff2') format('woff2'),
+         url('Non-Dottee-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Non-Dottee-RegularItalic';
+    src: url('Non-Dottee-RegularItalic.woff2') format('woff2'),
+         url('Non-Dottee-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
 }
