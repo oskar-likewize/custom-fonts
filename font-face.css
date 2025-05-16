@@ -119,4 +119,17 @@
   font-weight: normal;
   font-style: italic;
 }
+@font-face {
+  font-family: 'OnAir Regular';
+  src: url('https://oskar-bloniewski.github.io/custom-fonts/fonts/OnAir-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OnAir Bold';
+  src: url('https://oskar-bloniewski.github.io/custom-fonts/fonts/OnAir-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
 
