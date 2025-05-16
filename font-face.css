@@ -119,17 +119,93 @@
   font-weight: normal;
   font-style: italic;
 }
+/* OnAir-Regular */
 @font-face {
-  font-family: 'OnAir Regular';
-  src: url('https://oskar-bloniewski.github.io/custom-fonts/fonts/OnAir-Regular.woff') format('woff');
+  font-family: 'OnAir-Regular';
+  src: url('https://oskar-likewize.github.io/custom-fonts/OnAir-Regular.woff2') format('woff2'),
+       url('https://oskar-likewize.github.io/custom-fonts/OnAir-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
+/* OnAir-Italic */
 @font-face {
-  font-family: 'OnAir Bold';
-  src: url('https://oskar-bloniewski.github.io/custom-fonts/fonts/OnAir-Bold.woff') format('woff');
+  font-family: 'OnAir-Italic';
+  src: url('https://oskar-likewize.github.io/custom-fonts/OnAir-Italic.woff2') format('woff2'),
+       url('https://oskar-likewize.github.io/custom-fonts/OnAir-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* OnAir-Light */
+@font-face {
+  font-family: 'OnAir-Light';
+  src: url('https://oskar-likewize.github.io/custom-fonts/OnAir-Light.woff2') format('woff2'),
+       url('https://oskar-likewize.github.io/custom-fonts/OnAir-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* OnAir-LightItalic */
+@font-face {
+  font-family: 'OnAir-LightItalic';
+  src: url('https://oskar-likewize.github.io/custom-fonts/OnAir-LightItalic.woff2') format('woff2'),
+       url('https://oskar-likewize.github.io/custom-fonts/OnAir-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* OnAir-Bold */
+@font-face {
+  font-family: 'OnAir-Bold';
+  src: url('https://oskar-likewize.github.io/custom-fonts/OnAir-Bold.woff2') format('woff2'),
+       url('https://oskar-likewize.github.io/custom-fonts/OnAir-Bold.woff') format('woff');
   font-weight: bold;
+  font-style: normal;
+}
+
+/* OnAir-BoldItalic */
+@font-face {
+  font-family: 'OnAir-BoldItalic';
+  src: url('https://oskar-likewize.github.io/custom-fonts/OnAir-BoldItalic.woff2') format('woff2'),
+       url('https://oskar-likewize.github.io/custom-fonts/OnAir-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* OnAir-Black */
+@font-face {
+  font-family: 'OnAir-Black';
+  src: url('https://oskar-likewize.github.io/custom-fonts/OnAir-Black.woff2') format('woff2'),
+       url('https://oskar-likewize.github.io/custom-fonts/OnAir-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* OnAir-BlackItalic */
+@font-face {
+  font-family: 'OnAir-BlackItalic';
+  src: url('https://oskar-likewize.github.io/custom-fonts/OnAir-BlackItalic.woff2') format('woff2'),
+       url('https://oskar-likewize.github.io/custom-fonts/OnAir-BlackItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* OnAir-OutlineOne */
+@font-face {
+  font-family: 'OnAir-OutlineOne';
+  src: url('https://oskar-likewize.github.io/custom-fonts/OnAirOutlineOne.woff2') format('woff2'),
+       url('https://oskar-likewize.github.io/custom-fonts/OnAirOutlineOne.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* OnAir-OutlineThree */
+@font-face {
+  font-family: 'OnAir-OutlineThree';
+  src: url('https://oskar-likewize.github.io/custom-fonts/OnAirOutlineThree.woff2') format('woff2'),
+       url('https://oskar-likewize.github.io/custom-fonts/OnAirOutlineThree.woff') format('woff');
+  font-weight: normal;
   font-style: normal;
 }
 
